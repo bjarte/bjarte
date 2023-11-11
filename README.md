@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a developer at Novacare making websites for our clients. On the side I'm running hvemder.no, a service to help consumers protect themselves against telemarketers.
+
+I'm mostly working on web development in the Microsoft corner of the tech realm. I'm a backender working close to the frontend. The repositories here are mostly me trying out new technologies.
+
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/bjarteao/">LinkedIn</a>
+
+
+
+Please ignore the link below to my Mastodon profile, I'm not particularly active on Mastodon, I just wanted to confirm my GitHub account there 😬
 <a rel="me" href="https://snabelen.no/@bjarteao">Mastodon</a>
 
 <!--
@@ -12,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
