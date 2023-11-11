@@ -8,7 +8,7 @@ I'm mostly working on web development in the Microsoft corner of the tech realm.
 
 
 
-Please ignore the link below to my Mastodon profile. I'm not particularly active on Mastodon, I just wanted to confirm my GitHub account there 😬
+Please ignore the link below to my Mastodon profile. I'm not particularly active on Mastodon, I just wanted to confirm my GitHub account 😬
 
 <a rel="me" href="https://snabelen.no/@bjarteao">Mastodon</a>
 
